@@ -18,9 +18,15 @@ Estudiante de Ingeniería de Sistemas con interés en ciberseguridad, desarrollo
 - Python  
 - Git & GitHub  
 - SQL básico  
-- Fundamentos de seguridad informática  
+- Fundamentos de seguridad informática
+- Java 
 
 ---
+## Proyectos
+
+- Ejercicios académicos en programación (Python)
+- Prácticas de control de versiones con Git y GitHub
+- Proyectos básicos de análisis de datos en formación
 
 ##  En formación
 
